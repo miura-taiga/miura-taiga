@@ -8,17 +8,17 @@
 ## MyStats
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miura-taiga&theme=vue-dark&layout=compact" alt="Top Langs" style="width: 40%; height: auto; margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=miura-taiga&show_icons=true&theme=vue-dark" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miura-taiga&theme=vue-dark&layout=compact" style="width: 40%; height: auto; margin: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=miura-taiga&show_icons=true&theme=vue-dark" style="width: 40%; height: auto; margin: 5px;/>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=miura-taiga&theme=onestar&column=4" alt="GitHub Trophy" style="width: 40%; height: auto; margin: 5px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miura-taiga&theme=vue-dark" alt="Streak Stats" style="width: 40%; height: auto; margin: 5px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=miura-taiga&theme=onestar&column=4" style="width: 40%; height: auto; margin: 5px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miura-taiga&theme=vue-dark" style="width: 40%; height: auto; margin: 5px;">
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miura-taiga&theme=2077" alt="Profile Details" style="width: 80%; height: auto; margin: 5px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miura-taiga&theme=2077" style="width: 80%; height: auto; margin: 5px;">
 </div>
 
 
