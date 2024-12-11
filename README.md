@@ -9,11 +9,11 @@
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miura-taiga&theme=vue-dark&layout=compact" style="width: 40%; height: auto; margin: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=miura-taiga&show_icons=true&theme=vue-dark" style="width: 40%; height: auto; margin: 5px;/>
+  <img src="https://github-profile-trophy.vercel.app/?username=miura-taiga&theme=onestar&column=4" style="width: 40%; height: auto; margin: 5px;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=miura-taiga&theme=onestar&column=4" style="width: 40%; height: auto; margin: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=miura-taiga&show_icons=true&theme=vue-dark" style="width: 40%; height: auto; margin: 5px;/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miura-taiga&theme=vue-dark" style="width: 40%; height: auto; margin: 5px;">
 </div>
 
