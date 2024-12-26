@@ -1,7 +1,7 @@
 ## MyApp
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miura-taiga&repo=dust-hunters&theme=vue-dark" style="width: 49%; height: auto; margin: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miura-taiga&repo=dust-hunters&theme=vue-dark&cache_seconds=60" style="width: 49%; height: auto; margin: 5px;">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=miura-taiga&repo=runteq_dependency_checker&theme=vue-dark&cache_seconds=60"  style="width: 49%; height: auto; margin: 5px;">
 </div>
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
